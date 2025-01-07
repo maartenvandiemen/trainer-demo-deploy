@@ -38,7 +38,6 @@ export type TagType =
 // MOC Courses
   | "ai-102"
   | "ai-900"
-  | "az-040"
   | "az-104"
   | "az-120"
   | "az-140"
